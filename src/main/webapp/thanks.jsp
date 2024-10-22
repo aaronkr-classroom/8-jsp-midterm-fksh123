@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
 <!-- UT-NodeJS 중간고사 -->
 <!DOCTYPE html>
 <html lang="en">
